@@ -8,6 +8,8 @@
 
 This was the first edition of the app used to manage our company sector.
 
+Note: My source to study and create this project was [this repository by EliasGcf with GoBarber Project by Rocketseat](https://github.com/EliasGcf/gobarber).
+
 ## Backend
 
 [API REST](https://github.com/mat-alcantara/jrm-api)
